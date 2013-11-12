@@ -10,9 +10,9 @@
     - present
 {% endfor %}
 
-jdoe:
+nowa:
   user.present:
-    - fullname: John Doe
+    - fullname: Nowa User
     - shell: /bin/bash
     - home: /home/jdoe
     - uid: 1001

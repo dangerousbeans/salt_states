@@ -1,12 +1,12 @@
 ===========
-Salt States
+Nowa Salt States
 ===========
 
-This repository is intended as a collection of salt states which can be 
-checked out and used. 
 
-Since Salt is intended as a means to control minion state and flow this is
-a needed step in developing more powerful state management.
+Useful Commands
+---------------
+salt-ssh 'test1' test.ping --passwd tcith.2 --priv ~/.ssh/id_rsa
+
 
 Using this Repository
 ---------------------
