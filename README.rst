@@ -5,7 +5,7 @@ Nowa Salt States
 
 Useful Commands
 ---------------
-salt-ssh 'test1' test.ping --passwd tcith.2 --priv ~/.ssh/id_rsa
+salt-ssh 'test1' test.ping --passwd PASSWORD --priv ~/.ssh/id_rsa
 
 
 Using this Repository
